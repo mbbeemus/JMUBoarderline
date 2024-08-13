@@ -6,6 +6,79 @@
     <meta name="description" content="Boarderlin Official Website">
     <meta name="author" content="Mallory Beemus">
     <title>Boarderline Ski and Snowboard Club</title>
+	<style>
+		 .Exec_Team {
+            display: flex;
+            flex-wrap: wrap;
+            margin: 20px;
+        }
+
+        .row-1 {
+            display: flex;
+            flex-wrap: wrap;
+            width: 100%;
+            margin-bottom: 20px;
+        }
+
+        .col-3, .col-7, .col-1 {
+            padding: 10px;
+        }
+
+        .col-3 {
+            flex: 0 0 30%;
+        }
+
+        .col-7 {
+            flex: 0 0 70%;
+        }
+
+        /* Responsive Styles */
+        @media (max-width: 767px) {
+            .row-1 {
+                flex-direction: column;
+            }
+
+            .col-3, .col-7 {
+                flex: 0 0 100%;
+                text-align: center;
+            }
+
+            .col-3 img {
+                max-width: 80%;
+                height: auto;
+            }
+        }
+
+        @media (min-width: 768px) and (max-width: 1024px) {
+            .col-3 {
+                flex: 0 0 40%;
+            }
+
+            .col-7 {
+                flex: 0 0 60%;
+            }
+
+            .col-3 img {
+                max-width: 100%;
+                height: auto;
+            }
+        }
+
+        @media (min-width: 1025px) {
+            .col-3 {
+                flex: 0 0 30%;
+            }
+
+            .col-7 {
+                flex: 0 0 70%;
+            }
+
+            .col-3 img {
+                max-width: 100%;
+                height: auto;
+            }
+        }
+	</style>
 
 
     <link rel="preconnect" href="https://fonts.googleapis.com">
