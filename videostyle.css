@@ -1,0 +1,190 @@
+
+
+
+#two{
+	align-content: center;
+}
+
+a:link{
+	color: white;
+	text-decoration: none;
+}
+
+a:visited{
+	color: white;
+}
+
+a:hover{
+	color:black;
+}
+
+a:active{
+	color:white;
+}
+
+
+.nav-link{
+	font-family: "Cormorant", serif;
+	 
+	  font-weight: 700;
+
+	  font-size: 150%;
+	  text-align: center;
+	  padding: 5px;
+	  margin: 20px
+}
+.navbar-nav{
+	text-align: center;
+}
+.header{
+	text-align: center;
+	background-color: #DACCE6;
+}
+
+.container-fluid{
+	background-color: #450084;
+
+}
+
+.socials img{
+	width: 25px;
+	height: auto;
+	margin-left: 15px;
+	
+}
+
+
+.full-width-image {
+            overflow: hidden; /* To prevent horizontal scroll */
+           
+        }
+
+.full-width-image img {
+            width: 100%;
+            height: auto;
+            display: block;
+
+}
+
+.opener{
+	background-color: white;
+
+	padding:20px;
+	text-align: center;
+	font-size: 30px;
+
+}
+
+.opener h2{
+	font-family: "Anton", sans-serif;
+	font-size: 175%;
+	font-weight: 400;
+	font-style: normal;
+	color: #D6D6D6;
+	text-align: center;
+
+}
+.opener p{
+	font-family: "Barlow", sans-serif;
+  	font-weight: 400;
+  	font-style: normal;
+	
+}
+
+#body{
+	margin: 10px;
+	padding: 10px;
+}
+
+.newsletter_sign_up{
+	text-align: left;
+	font-family: "Anton", sans-serif;
+	font-size: 150%;
+	font-weight: 400;
+	font-style: normal;
+	color: #D6D6D6;
+	text-align: left;
+	text-decoration: none;
+}
+
+.socials{
+	text-align:left;
+	font-family: "Anton", sans-serif;
+	font-size: 150%;
+	font-weight: 400;
+	font-style: normal;
+	color: #D6D6D6;
+	text-decoration: none;
+
+}
+
+.footer{
+	background-color:#DACCE6;
+	padding: 10px;
+}
+
+.btn{
+	background-color: #450084;
+}
+
+
+
+
+.Videos h2{
+	font-family: "Anton", sans-serif;
+	font-size: 250%;
+	font-weight: 400;
+	font-style: normal;
+
+	text-decoration: none;
+	margin-bottom: 0px;
+}
+
+.Videos p{
+	font-family: "Barlow", sans-serif;
+ 	font-weight: 400;
+  	font-size: 15px;
+  	margin-top: 0px;
+  	margin-bottom: 10px;
+}
+
+.row-1 {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 20px;
+    margin-left:50px;
+}
+
+
+
+
+
+.VideosHeader {
+    background-color: #DACCE6;
+    margin-bottom: 30px;
+    margin-top: 30px;
+    text-align: center;
+    align-items: center;
+}
+
+.VideosHeader h1 {
+    background-color: #DACCE6;
+    color: White;
+    font-family: "Anton", sans-serif;
+    font-size: 300%;
+    font-weight: 400;
+    font-style: normal;
+
+    text-align: center;
+   
+}
+
+
+
+.video-iframe {
+    width: 600px;
+    height: 350px;
+    border: none;
+}

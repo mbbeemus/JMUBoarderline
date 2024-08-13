@@ -1,0 +1,126 @@
+
+
+
+#two{
+	align-content: center;
+}
+
+a:link{
+	color: white;
+	text-decoration: none;
+}
+
+a:visited{
+	color: white;
+}
+
+a:hover{
+	color:black;
+}
+
+a:active{
+	color:white;
+}
+
+
+.nav-link{
+	font-family: "Cormorant", serif;
+	  font-weight: 700;
+	  font-size: 150%;
+	  text-align: center;
+	  padding: 5px;
+	  margin: 20px
+}
+.navbar-nav{
+	text-align: center;
+}
+.header{
+	text-align: center;
+	background-color: #DACCE6;
+}
+
+.container-fluid{
+	background-color: #450084;
+}
+
+.socials img{
+	width: 25px;
+	height: auto;
+	margin-left: 15px;
+	
+}
+
+
+.full-width-image {
+            overflow: hidden; /* To prevent horizontal scroll */
+           
+        }
+
+.full-width-image img {
+            width: 100%;
+            height: auto;
+            display: block;
+            margin: 0 auto; /* Center the image horizontally */
+            padding: 0;
+}
+
+.opener{
+	background-color: white;
+
+	padding:20px;
+	text-align: center;
+	font-size: 30px;
+
+}
+
+.opener h2{
+	font-family: "Anton", sans-serif;
+	font-size: 175%;
+	font-weight: 400;
+	font-style: normal;
+	text-align: center;
+
+}
+.opener p{
+	font-family: "Barlow", sans-serif;
+  	font-weight: 400;
+  	font-style: normal;
+	
+}
+
+#body{
+	margin: 10px;
+	padding: 10px;
+}
+
+.newsletter_sign_up{
+	text-align: left;
+	font-family: "Anton", sans-serif;
+	font-size: 150%;
+	font-weight: 400;
+	font-style: normal;
+	text-align: left;
+	text-decoration: none;
+}
+
+.socials{
+	text-align:left;
+	font-family: "Anton", sans-serif;
+	font-size: 150%;
+	font-weight: 400;
+	font-style: normal;
+	text-decoration: none;
+
+}
+
+.footer{
+	background-color:#DACCE6;
+	padding: 10px;
+}
+
+.btn{
+	background-color: #450084;
+}
+
+
+

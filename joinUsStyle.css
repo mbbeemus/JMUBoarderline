@@ -1,0 +1,303 @@
+.container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.row-1 {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+}
+
+.col-4 {
+    flex: 0 0 45%; /* Adjust the width as needed */
+}
+
+.col-8 {
+    flex: 0 0 45%; /* Adjust the width as needed */
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+
+
+
+
+#two{
+    align-content: center;
+}
+
+a:link{
+    color: white;
+    text-decoration: none;
+}
+
+a:visited{
+    color: white;
+}
+
+a:hover{
+    color:black;
+}
+
+a:active{
+    color:white;
+}
+
+
+
+
+
+.socials img{
+    width: 25px;
+    height: auto;
+    margin-left: 15px;
+    
+}
+
+
+.full-width-image {
+            overflow: hidden; /* To prevent horizontal scroll */
+           
+        }
+
+.full-width-image img {
+            width: 100%;
+            height: auto;
+            display: block;
+            margin: 0 auto; /* Center the image horizontally */
+
+}
+
+.opener{
+    background-color: white;
+    padding:20px;
+    text-align: center;
+    font-size: 30px;
+
+}
+
+.opener h2{
+    font-family: "Anton", sans-serif;
+    font-size: 175%;
+    font-weight: 400;
+    font-style: normal;
+    text-align: center;
+
+}
+.opener p{
+    font-family: "Barlow", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    
+}
+
+#body{
+    margin: 10px;
+    padding: 10px;
+}
+
+.newsletter_sign_up{
+    text-align: left;
+    font-family: "Anton", sans-serif;
+    font-size: 150%;
+    font-weight: 400;
+    font-style: normal;
+    text-align: left;
+    text-decoration: none;
+}
+
+.socials{
+    text-align:left;
+    font-family: "Anton", sans-serif;
+    font-size: 150%;
+    font-weight: 400;
+    font-style: normal;
+    text-decoration: none;
+
+}
+
+.footer{
+    background-color:#DACCE6;
+    padding: 10px;
+}
+
+.btn{
+    background-color: #450084;
+}
+
+
+
+.JoinUsTitle {
+    background-color: #DACCE6;
+    margin-bottom: 20px;
+    text-align: center;
+    display: flex; /* Add display flex to enable flexbox */
+    justify-content: center; /* Horizontally center content */
+    align-items: center; /* Vertically center content */
+    padding: 0px 0; /* Add padding for spacing */
+    margin-top:30px;
+}
+
+.JoinUsTitle h1 {
+    font-family: "Anton", sans-serif;
+    font-size: 3.25rem; /* Increase font size */
+    font-weight: 400;
+    color: #FFFFFF; /* Change font color to white */
+    margin: 0; /* Reset margin to remove any default spacing */
+}
+
+h2{
+    font-family: "Anton", sans-serif;
+    font-size: 250%;
+    font-weight: 400;
+    font-style: normal;
+    text-decoration: none;
+    margin-bottom: 0px;
+}
+
+.col-7 {
+
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start; /* Align content to the top */
+    margin-bottom: 90px;
+    margin-top: 30px;
+}
+
+.joinH2{
+    font-family: "Anton", sans-serif;
+    font-size: 75%;
+    font-weight: 400;
+    font-style: normal;
+    text-decoration: none;
+    margin-bottom: 0px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start; /* Align content to the top */
+    margin-left: 30px;
+}
+
+.joinH3 h3{
+    font-size:170%;
+    font-family: "Barlow", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    text-decoration: none;
+    margin-bottom: 0px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start; /* Align content to the top */
+    margin-left: 30px;
+    margin-top: 0px;
+    margin-bottom: 10px;
+    font-style: italic;
+}
+
+.FAQTitle{
+    background-color: #DACCE6;
+    margin-bottom: 20px;
+    text-align: center;
+    display: flex; /* Add display flex to enable flexbox */
+    justify-content: center; /* Horizontally center content */
+    align-items: center; /* Vertically center content */
+    padding: 0px 0; /* Add padding for spacing */
+    margin-top:30px;
+}
+
+.FAQTitle h2{
+    font-family: "Anton", sans-serif;
+    font-size: 3.25rem; /* Increase font size */
+    font-weight: 400;
+    color: #FFFFFF; /* Change font color to white */
+    margin: 0; /* Reset margin to remove any default spacing */
+}
+
+.bulletList{
+    margin-left: 30px;
+}
+
+.bulletList li{
+    font-family: "Barlow", sans-serif;
+    font-weight: 400;
+    font-size: 20px;
+    margin-top: 0px;
+    margin-bottom: 10px;
+}
+
+/* Adjust the width of the accordion container and add margins */
+#accordionExample {
+    width: calc(100% - 60px); /* Calculate width minus left and right margins */
+    margin: 0 30px;
+    margin-top: 30px;
+    margin-bottom: 25px;
+}
+
+/* Adjust the width of each accordion item */
+.accordion-item {
+    width: 100%; /* Set width to 100% */
+}
+
+/* Adjust the width of the accordion button */
+.accordion-button {
+    width: 100%; /* Set width to 100% */
+    text-align: left; /* Align text to the left */
+}
+
+/* Adjust the width of the accordion body */
+.accordion-body {
+    width: 100%; /* Set width to 100% */
+}
+
+.accordion-header h3{
+    font-family: "Anton", sans-serif;
+    font-size: 1.5rem; /* Increase font size */
+    font-weight: 400;
+    margin: 0; 
+}
+
+.accordion-header button[aria-expanded="true"] {
+    background-color: #DACCE6; /* Change the background color to purple */
+    color: white; /* Change the text color to white for better contrast */
+    font-size: 30px;
+}
+
+.FAQ p{
+    font-family: "Barlow", sans-serif;
+    font-weight: 400;
+    font-size: 20px;
+    margin-top: 0px;
+  
+    margin-left: 30px;
+}
+
+.accordion-button.collapsed{
+    font-size: 25px;
+}
+
+
+.nav-link{
+    font-family: "Cormorant", serif;
+      font-weight: 700;
+      font-size: 150%;
+      text-align: center;
+      padding: 5px;
+      margin: 20px
+}
+.navbar-nav{
+    text-align: center;
+}
+.header{
+    text-align: center;
+    background-color: #DACCE6;
+}
+
+.container-fluid{
+    background-color: #450084;
+
+}
+

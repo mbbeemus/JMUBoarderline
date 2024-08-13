@@ -1,0 +1,195 @@
+
+
+
+#two{
+	align-content: center;
+}
+
+a:link{
+	color: white;
+	text-decoration: none;
+}
+
+a:visited{
+	color: white;
+}
+
+a:hover{
+	color:black;
+}
+
+a:active{
+	color:white;
+}
+
+
+.nav-link{
+	font-family: "Cormorant", serif;
+
+	  font-weight: 700;
+
+	  font-size: 150%;
+	  text-align: center;
+	  padding: 5px;
+	  margin: 20px
+}
+.navbar-nav{
+	text-align: center;
+}
+.header{
+	text-align: center;
+	background-color: #DACCE6;
+}
+
+.container-fluid{
+	background-color: #450084;
+
+}
+
+
+
+
+.full-width-image {
+            overflow: hidden; /* To prevent horizontal scroll */
+           
+        }
+
+.full-width-image img {
+            width: 100%;
+            height: auto;
+            display: block;
+            margin: 0 auto; /* Center the image horizontally */
+
+}
+
+.opener{
+	background-color: white;
+
+	padding:20px;
+	text-align: center;
+	font-size: 30px;
+
+}
+
+.opener h2{
+	font-family: "Anton", sans-serif;
+	font-size: 175%;
+	font-weight: 400;
+	font-style: normal;
+
+	text-align: center;
+
+}
+.opener p{
+	font-family: "Barlow", sans-serif;
+  	font-weight: 400;
+  	font-style: normal;
+	
+}
+
+#body{
+	margin: 10px;
+	padding: 10px;
+}
+
+.newsletter_sign_up{
+	text-align: left;
+	font-family: "Anton", sans-serif;
+	font-size: 150%;
+	font-weight: 400;
+	font-style: normal;
+
+	text-align: left;
+	text-decoration: none;
+}
+
+.socials{
+	text-align:left;
+	font-family: "Anton", sans-serif;
+	font-size: 150%;
+	font-weight: 400;
+	font-style: normal;
+	text-decoration: none;
+
+}
+
+.footer{
+	background-color:#DACCE6;
+	padding: 10px;
+}
+
+.btn{
+	background-color: #450084;
+}
+
+
+
+
+
+
+.Exec_Team img {
+    width: 300px; /* Specify the desired width */
+    height: auto; /* Maintain aspect ratio */
+    margin: 30px;
+    margin-right: 50px;
+}
+
+.row-1 {
+    display: flex; /* Use flexbox to align items horizontally */
+    align-items: center; /* Align items vertically center */
+}
+
+
+.meetUsHeader h1{
+	background-color: #DACCE6;
+	color: White;
+	font-family: "Anton", sans-serif;
+	font-size: 300%;
+	font-weight: 400;
+	font-style: normal;
+
+	text-align: center;
+
+}
+.meetUsHeader{
+	background-color: #DACCE6;
+	margin-bottom: 5px;
+	margin-top: 30px;
+	text-align: center;
+}
+
+.socials img{
+	width: 25px;
+	height: auto;
+	
+}
+
+.Exec_Team h2{
+
+	font-family: "Anton", sans-serif;
+	font-size: 250%;
+	font-weight: 400;
+	font-style: normal;
+
+	text-decoration: none;
+	margin-bottom: 0px;
+}
+
+.Exec_Team h5{
+	font-family: "Barlow", sans-serif;
+ 	font-weight: 400;
+  	font-style: italic;
+  	font-size: 20px;
+  	margin-top: 0px;
+  	margin-bottom: 10px;
+}
+
+.Exec_Team p{
+	font-family: "Barlow", sans-serif;
+ 	font-weight: 400;
+  	font-size: 15px;
+  	margin-top: 0px;
+  	margin-bottom: 10px;
+}
+
+

@@ -1,0 +1,353 @@
+
+
+
+#two{
+	align-content: center;
+}
+
+a:link{
+	color: white;
+	text-decoration: none;
+}
+
+a:visited{
+	color: white;
+}
+
+a:hover{
+	color:black;
+}
+
+a:active{
+	color:white;
+}
+
+.What_We_do {
+    margin-top: 20px; /* Adjust the margin as needed */
+    align-content: center;
+}
+
+/* Center the "What We Do" heading */
+
+#body p{
+	font-family: "Barlow", sans-serif;
+ 	font-weight: 400;
+  	font-style: normal;
+}
+
+h3{
+	font-family: "Anton", sans-serif;
+	font-size: 150%;
+	font-weight: 400;
+	font-style: normal;
+	text-align: center;
+}
+.nav-link{
+	font-family: "Cormorant", serif;
+	  font-weight: 700;
+	  font-size: 150%;
+	  text-align: center;
+	  padding: 5px;
+	  margin: 20px
+}
+.navbar-nav{
+	text-align: center;
+}
+.header{
+	text-align: center;
+	background-color: #DACCE6;
+}
+
+#navbar{
+	background-color: #450084;
+}
+
+
+
+.full-width-image {
+            overflow: hidden; /* To prevent horizontal scroll */
+           
+        }
+
+.full-width-image img {
+            width: 100%;
+            height: auto;
+            display: block;
+            margin: 0 auto; /* Center the image horizontally */
+}
+
+.opener{
+	background-color: white;
+	padding:0px;
+	text-align: center;
+	font-size: 30px;
+
+
+}
+
+
+.opener p{
+	font-family: "Goblin One", serif;
+	font-weight: 500;
+	font-style:normal;
+	
+}
+
+#body{
+	margin: 10px;
+	padding: 10px;
+}
+
+.newsletter_sign_up{
+	text-align: left;
+	font-family: "Anton", sans-serif;
+	font-size: 150%;
+	font-weight: 400;
+	font-style: normal;
+	text-align: left;
+	text-decoration: none;
+}
+
+.socials{
+	text-align:left;
+	font-family: "Anton", sans-serif;
+	font-size: 150%;
+	font-weight: 400;
+	font-style: normal;
+	text-decoration: none;
+
+}
+
+.footer{
+	background-color:#DACCE6;
+	padding: 10px;
+}
+
+.btn{
+	background-color: #450084;
+}
+
+
+.row-1 {
+    display: flex;
+    align-items: center; /* Align items vertically */
+}
+
+.col-5{
+	flex: 0 0 auto;
+}
+
+.col-7{
+	flex: 1;
+}
+
+.col-6 h2{
+	text-align: center;
+	font-family: "Anton", sans-serif;
+	font-size: 150%;
+	font-weight: 400;
+	font-style: normal;
+	text-align: left;
+	text-decoration: none;
+}
+
+.What_We_Do h2{
+	text-align: center;
+}
+
+.img-fluid{
+	max-width: 100%;
+  height: auto;
+}
+
+.card-body p{
+	font-size: 8px;
+}
+
+.accordion-button:not(.collapsed) {
+    background-color: #DACCE6;
+    
+}
+
+.opener_text{
+	margin-left: 20px;
+}
+
+.whatwedotext{
+	background-color: #DACCE6;
+	margin-bottom: 20px;
+	color: White;
+}
+
+.tripstext {
+    margin-bottom: 10px; /* Adjust the margin-top value as needed */
+}
+
+#quoteCard{
+	margin: 50px;
+	margin-top: 150px;
+	margin-bottom: 10px;
+}
+
+h3 {
+	text-align: center;
+	font-family: "Anton", sans-serif;
+	font-size: 100%;
+	font-weight: 400;
+	font-style: normal;
+	text-align: center;
+	text-decoration: none;
+}
+
+.card-body p{
+	font-family: "Barlow", sans-serif;
+ 	font-weight: 400;
+  	font-style: normal;
+  	font-size: 15px;
+}
+
+.opener-heading{
+	background-color: #DACCE6;
+	color: white;
+	margin: 0px;
+	padding: 0px;
+}
+
+.accordion-body p{
+	font-family: "Barlow", sans-serif;
+ 	font-weight: 400;
+  	font-style: normal;
+  	font-size: 20px;
+}
+
+.accordion-body h4{
+	text-align: center;
+	font-family: "Anton", sans-serif;
+	font-size: 150%;
+	font-weight: 300;
+	font-style: normal;
+	text-align: center;
+	text-decoration: none;
+}
+
+.opener-heading p{
+	font-family: "Barlow", sans-serif;
+ 	font-weight: 400;
+  	font-style: normal;
+  	font-size: 50px;
+}
+
+h3{
+	text-align: center;
+	font-family: "Anton", sans-serif;
+	font-size: 75%;
+	font-weight: 300;
+	font-style: normal;
+	text-align: center;
+	text-decoration: none;
+}
+
+
+.blockquote-footer{
+	font-family: "Barlow", sans-serif;
+ 	font-weight: 400;
+  	font-style: italic;
+  	font-size: 20px;
+}
+
+.ourPartners h2{
+	background-color: #DACCE6;
+	color: White;
+}
+.ourPartners{
+	background-color: #DACCE6;
+	margin-bottom: 20px;
+	text-align: center;
+}
+
+.BlPartners{
+	margin: 20px;
+}
+
+.accordion-item{
+	margin: 10px;
+}
+
+
+.opener_text p {
+    font-family: "Barlow", sans-serif;
+ 	font-weight: 400;
+  	font-style: normal;
+  	font-size: 30px;
+}
+
+.socials img{
+	width: 25px;
+	height: auto;
+	
+}
+
+p{
+	font-family: "Barlow", sans-serif;
+ 	font-weight: 400;
+  	font-style: normal;
+  	font-size: 15px;
+}
+
+.opener h2{
+	font-family: "Anton", sans-serif;
+	font-size: 175%;
+	font-weight: 400;
+	font-style: normal;
+	text-align: center;
+	color: white;
+}
+
+.opener-head{
+	background-color: #DACCE6;
+}
+
+.opener p{
+    font-family: "Barlow", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 30px;
+
+}
+
+.whatwedotext h2{
+	font-family: "Anton", sans-serif;
+	font-size: 325%;
+	font-weight: 400;
+	font-style: normal;
+	text-align: center;
+	color: white;
+}
+.ourPartners h2{
+	font-family: "Anton", sans-serif;
+	font-size: 325%;
+	font-weight: 400;
+	font-style: normal;
+	text-align: center;
+	color: white;
+}
+
+.card-title{
+	font-size: 200%;
+}
+
+#accordionFlushExample .accordion-header {
+    font-size: 1.5rem; /* Increase the font size of the accordion headers */
+}
+
+/* Target the paragraph text within the accordion body */
+#accordionFlushExample .accordion-body p {
+    font-size: 1.25rem; /* Increase the font size of the paragraphs */
+}
+
+/* Target the h4 elements within the accordion body */
+#accordionFlushExample .accordion-body h4 {
+    font-size: 1.5rem; /* Increase the font size of the h4 headings */
+}
+
+
